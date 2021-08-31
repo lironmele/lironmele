@@ -8,6 +8,6 @@
 					</a>
 	</p>
 </h1>
-<h3>- 👀 I’m interested in coding python and C# projects.</h3>
-<h3>- 🌱 I’m currently learning assembly.</h3>
+<h3>- 👀 I’m interested in coding python, C# and assembly projects.</h3>
+<h3>- 🌱 I’m currently learning React.</h3>
 <h3>- 💞️ I’m looking to collaborate on any cool project.</h3>
